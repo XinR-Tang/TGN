@@ -12,7 +12,7 @@
     </a>
     <a href=""><img src="https://img.shields.io/badge/python-3.8+-aff.svg"></a>
     <a href=""><img src="https://img.shields.io/badge/os-linux%2C%20win-pink.svg"></a>
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Zhao-Yian/GraCo">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/XinR-Tang/TGN">
     <a href="mailto: tanghaojun_cam@163.com">
     <img alt="Static Badge" src="https://img.shields.io/badge/contact_me-email-yellow">
     </a>

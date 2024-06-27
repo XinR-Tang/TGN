@@ -119,7 +119,7 @@ pip install -r requirements.txt
 ```
 
 - 在开始之前，请执行以下命令划分头部数据集和尾部数据集:
-- 
+  
 ```bash
 cd KMDN
 python3 dataset_split.py

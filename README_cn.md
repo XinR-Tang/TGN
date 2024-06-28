@@ -4,7 +4,7 @@
     <h1> ⭐ TGN: Text-Guided Diverse Image Synthesis for Long-Tailed Remote Sensing Object Classification </h1>
 </div>
 <p align="center">
-    <a href="">
+    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36">
     <img alt="Static Badge" src="https://img.shields.io/badge/TGRS-blue?logo=ieee&labelColor=blue&color=blue">
     </a>
     <a href="">

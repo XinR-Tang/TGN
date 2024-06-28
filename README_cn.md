@@ -217,7 +217,7 @@ python3  train.py
 @article{TGRS2024tgn,
   title={Text-Guided Diverse Image Synthesis for Long-Tailed Remote Sensing Object Classification},
   author={Haojun Tang, Wenda Zhao, Guang Hu, Yi Xiao, Yunlong Li and Haipeng Wang},
-  journal={arXiv preprint arXiv:2403.06122},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
   year={2024}
 }
 ```

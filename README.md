@@ -7,7 +7,7 @@ English | [简体中文](README_cn.md)
     <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36">
     <img alt="Static Badge" src="https://img.shields.io/badge/TGRS-blue?logo=ieee&labelColor=blue&color=blue">
     </a>
-    <a href="">
+    <a href="https://ieeexplore.ieee.org/document/10582893">
     <img alt="Static Badge" src="https://img.shields.io/badge/Paper-openproject.svg?logo=openproject&color=%23B31B1B">
     </a>
     <a href=""><img src="https://img.shields.io/badge/python-3.8+-aff.svg"></a>
@@ -21,7 +21,7 @@ English | [简体中文](README_cn.md)
 ---
 
 ## 🌋  Notes
-This is the official implementation for our <span style='color: #EB5353;font-weight:bold'>TGRS 2024</span> paper "Text-Guided Diverse Image Synthesis for Long-Tailed Remote Sensing Object Classification". 
+This is the official implementation for our <span style='color: #EB5353;font-weight:bold'>TGRS 2024</span> paper "[Text-Guided Diverse Image Synthesis for Long-Tailed Remote Sensing Object Classification](https://ieeexplore.ieee.org/document/10582893)". 
 You can quickly implement our work through this project. If you have any questions, please contact us!
 
 ![](./picture/1.png)

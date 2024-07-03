@@ -213,12 +213,16 @@ python3  train.py
 ## Citation
 If you find this work useful in your research, please cite our paper:
 ```
-@article{TGRS2024tgn,
-  title={Text-Guided Diverse Image Synthesis for Long-Tailed Remote Sensing Object Classification},
-  author={Haojun Tang, Wenda Zhao, Guang Hu, Yi Xiao, Yunlong Li and Haipeng Wang},
-  journal={IEEE Transactions on Geoscience and Remote Sensing},
-  year={2024}
-}
+@ARTICLE{tgn,
+  author={Tang, Haojun and Zhao, Wenda and Hu, Guang and Xiao, Yi and Li, Yunlong and Wang, Haipeng},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Text-Guided Diverse Image Synthesis for Long-Tailed Remote Sensing Object Classification}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Long-tailed remote sensing object classification;Knowledge mutual distillation;Class-consistent diverse image synthesis},
+  doi={10.1109/TGRS.2024.3422095}}
 ```
 
 ## Acknowledgements
